@@ -44,7 +44,7 @@
         "admb_openad": "ca-app-pub-7144089957930196/4907876084"
       },
       
-      "onBackOpenAds":false,
+      "onBackOpenAds":true,
       "admbNbOrB":"nb",
       
       
